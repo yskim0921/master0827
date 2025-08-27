@@ -36,14 +36,17 @@ git 연습하기
 
 ---
 
-## 📖 참고 문헌
-- Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton.  
-  *Imagenet classification with deep convolutional neural networks.*  
-  Advances in Neural Information Processing Systems 25 (2012).  
-
----
 
 ## 💡 느낀 점
 - CNN을 활용하여 0~9 숫자 이미지 학습 성능이 **매우 우수**하게 나왔다.  
 - 그러나 **데이터 변환(transform)** 방법에 따라 성능 저하가 발생하는 경우가 있었다.  
 - 이러한 **성능 감소 기법에 대한 분석 및 리포트**가 필요하다고 느꼈다.  
+
+
+---
+
+
+## 📖 참고 문헌
+- Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton.  
+  *Imagenet classification with deep convolutional neural networks.*  
+  Advances in Neural Information Processing Systems 25 (2012).  
