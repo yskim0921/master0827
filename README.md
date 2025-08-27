@@ -28,7 +28,7 @@ git 연습하기
 
 - **전체 설계도**:  
   - `architecture.jpg`
-  - <img width="271" height="186" alt="output" src="https://github.com/user-attachments/assets/0c10c628-1f75-4ced-964e-9988d889d378" />
+  - <img width="1280" height="720" alt="output" src="https://github.com/user-attachments/assets/0c10c628-1f75-4ced-964e-9988d889d378" />
 
 - **결과 이미지**:  
   - `output.jpg`
